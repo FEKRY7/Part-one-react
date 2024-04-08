@@ -1,0 +1,95 @@
+    .bot1xm{
+        height: 42px;
+        width: 102px;
+        position: relative;
+        margin-top: 0%;
+        cursor: pointer;
+        border: aliceblue;
+        overflow: hidden;
+        border-radius: 30px;
+        margin-left: 0%;
+        transition: all 0.5s ease-in-out;
+        background: white;
+        color: #252525;
+        border: #d0cbcb solid 1px;
+    }
+    .bot1xm:hover{
+        color: white;
+        background-color: rgb(185, 50, 50);
+    }
+    .bot2xm{
+        height: 42px;
+        width: 123px;
+        position: relative;
+        margin-top: 0%;
+        cursor: pointer;
+        overflow: hidden;
+        border-radius: 30px;
+        margin-left: 2%;
+        transition: all 0.5s ease-in-out;
+        background: white;
+        color: #252525;
+        border: #d0cbcb solid 1px;
+    }
+    .bot2xm:hover{
+        background-color: rgb(185, 50, 50);
+        color: white;
+        border: aliceblue;
+    }
+    .bot3xm{
+        height: 42px;
+        width: 123px;
+        position: relative;
+        margin-top: 0%;
+        cursor: pointer;
+        overflow: hidden;
+        border-radius: 30px;
+        margin-left: 2%;
+        transition: all 0.5s ease-in-out;
+        background-color: rgb(185, 50, 50);
+        border: aliceblue;
+        color: white;
+    }
+    .bot3xm:hover{
+        color: #252525;
+        background: white;
+        border: #d0cbcb solid 1px;
+    }
+    .bot4xm{
+        height: 42px;
+        width: 123px;
+        position: relative;
+        margin-top: 0%;
+        color: #252525;
+        background: white;
+        border: #d0cbcb solid 1px;
+        cursor: pointer;
+        overflow: hidden;
+        border-radius: 30px;
+        margin-left: 2%;
+        transition: all 0.5s ease-in-out;
+    }
+    .bot4xm:hover{
+        background-color: rgb(185, 50, 50);
+        border: aliceblue;
+        color: white;
+    }
+    .bot5xm{
+        height: 42px;
+        width: 123px;
+        position: relative;
+        margin-top: 0%;
+        color: #252525;
+        background: white;
+        border: #d0cbcb solid 1px;
+        cursor: pointer;
+        overflow: hidden;
+        border-radius: 30px;
+        margin-left: 2%;
+        transition: all 0.5s ease-in-out;
+    }
+    .bot5xm:hover{
+        background-color: rgb(185, 50, 50);
+        border: aliceblue;
+        color: white;
+    }

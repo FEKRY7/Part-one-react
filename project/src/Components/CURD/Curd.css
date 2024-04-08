@@ -1,0 +1,143 @@
+.emartos{
+    background-color: rgb(228, 228, 221);
+    width: 98%;
+    height: 714px;
+    padding: 1%;
+}
+.AmodeAldin{
+    margin: auto;
+    height: 72px;
+    margin-top: 3%;
+    border-radius: 3px;
+    width: 81%;
+    background-color: #435d7d;
+}
+.TornadoKAlkota{
+    padding: 2%;
+    margin-left: 1%;
+}
+.Parprosa{
+    color: white;
+    font-family: sans-serif;
+    font-size: 151%;
+}
+.Xstanos{
+    margin-left: 79%;
+    margin-top: -36px;
+}
+.wsttonesr{
+
+}
+.Lankrosa{
+    width: 200px;
+    border: none;
+    height: 42px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    background: rgb(28, 173, 28);
+}
+.Lankrosa:hover{
+    background: rgb(14, 158, 14);
+}
+.rodmabos{
+    margin: auto;
+    width: 96%;
+}
+.figmanso{
+    background: white;
+    margin: auto;
+    height: 500px;
+    margin-top: 2%;
+    margin-left: -3%;
+    width: 103%;
+    border-radius: 3px;
+    padding: 1%;
+}
+
+.locantos{
+margin-top: 1%;
+}
+.manserto{
+
+}
+.Bigenamps {
+    margin-left: 11%;
+    margin-top: 1%;
+}
+.googlenamps {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 27%;
+}
+.Dolkeros{
+    color: white;
+    margin-top: -2%;
+    margin-left: 46%;
+}
+.lopb1{
+
+}
+.rodmabos1{
+    margin: auto;
+    width: 180%;
+    margin-top: 2%;
+}
+.Bigenamps2 {
+    margin-left: 6%;
+    margin-top: 4%;
+}
+.googlenamps2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 24%;
+}  
+.lopb2{
+
+}
+.CiEdit{
+    font-size: 154%;
+cursor: pointer;
+}
+.MdDelete{
+    font-size: 154%;
+cursor: pointer;
+
+}
+.button-containerz {
+    display: flex;
+    background-color: #435d7d;
+    width: 250px;
+    height: 40px;
+    margin-top: 2%;
+    margin-left: 40%;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px,
+      rgba(27, 133, 219, 0.5) 5px 10px 15px;
+  }
+  
+  .buttonz {
+    outline: 0 !important;
+    border: 0 !important;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    transition: all ease-in-out 0.3s;
+    cursor: pointer;
+  }
+  
+  .buttonz:hover {
+    transform: translateY(-3px);
+  }
+  
+  .iconz {
+    font-size: 20px;
+  }
+  

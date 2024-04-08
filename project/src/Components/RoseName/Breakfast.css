@@ -1,0 +1,98 @@
+.shanderbagxc{
+height: 663px;
+}
+.bot1x{
+    height: 42px;
+    width: 102px;
+    position: relative;
+    margin-top: 0%;
+    cursor: pointer;
+    border: aliceblue;
+    overflow: hidden;
+    border-radius: 30px;
+    margin-left: 0%;
+    transition: all 0.5s ease-in-out;
+    background: white;
+    color: #252525;
+    border: #d0cbcb solid 1px;
+}
+.bot1x:hover{
+    color: white;
+    background-color: rgb(185, 50, 50);
+}
+.bot2x{
+    height: 42px;
+    width: 123px;
+    position: relative;
+    margin-top: 0%;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 30px;
+    margin-left: 2%;
+    transition: all 0.5s ease-in-out;
+    background-color: rgb(185, 50, 50);
+    color: white;
+    border: aliceblue;
+}
+.bot2x:hover{
+    background: white;
+    color: #252525;
+    border: #d0cbcb solid 1px;
+}
+.bot3x{
+    height: 42px;
+    width: 123px;
+    position: relative;
+    margin-top: 0%;
+    color: #252525;
+    background: white;
+    border: #d0cbcb solid 1px;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 30px;
+    margin-left: 2%;
+    transition: all 0.5s ease-in-out;
+}
+.bot3x:hover{
+    background-color: rgb(185, 50, 50);
+    border: aliceblue;
+    color: white;
+}
+.bot4x{
+    height: 42px;
+    width: 123px;
+    position: relative;
+    margin-top: 0%;
+    color: #252525;
+    background: white;
+    border: #d0cbcb solid 1px;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 30px;
+    margin-left: 2%;
+    transition: all 0.5s ease-in-out;
+}
+.bot4x:hover{
+    background-color: rgb(185, 50, 50);
+    border: aliceblue;
+    color: white;
+}
+.bot5x{
+    height: 42px;
+    width: 123px;
+    position: relative;
+    margin-top: 0%;
+    color: #252525;
+    background: white;
+    border: #d0cbcb solid 1px;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 30px;
+    margin-left: 2%;
+    transition: all 0.5s ease-in-out;
+}
+.bot5x:hover{
+    background-color: rgb(185, 50, 50);
+    border: aliceblue;
+    color: white;
+}

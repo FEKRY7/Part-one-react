@@ -1,0 +1,152 @@
+.tatristanx{
+    width: 98%;
+    background-color: #F9F9F7;
+    padding: 1%;
+    height: 831px;
+}
+.mnstenx{
+    margin-top: 11%;
+    margin-left: 36%;
+}
+.textastanx{
+    font-size: 446%;
+    margin-left: -3%;
+}
+.pagestanx{
+    text-align: center;
+    margin-left: -6%;
+    width: 52%;
+    font-size: 91%;
+    font-family: system-ui;
+    color: #414536;
+}
+.bagerformx{
+    margin-top: 6%;
+    margin-left: 25%;
+    background-color: #FFFFFF;
+    width: 49%;
+    height: 59%;
+    border-radius: 8px;
+    box-shadow: 0 4px 18px 0 rgba(0, 0, 0, 0.25);
+}
+.contenrtotl2x{
+    padding: 1%;
+}
+.conterx3x{
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.contNamex{
+    line-height: 212%;
+    margin-left: 3%;
+    font-family: system-ui;
+}
+#namex{
+    height: 8px;
+    width: 227px;
+    position: relative;
+    margin-top: 0%;
+    color: #252525;
+    background: #FFFFFF;
+    border: #e4e3e3 solid 1px;
+    overflow: hidden;
+    border-radius: 30px;
+    margin-left: 2%;
+    padding: 3%;
+}
+.conterx4x{
+    margin-top: -13%;
+    margin-left: 53%;
+}
+.contPhonex{
+    line-height: 212%;
+    margin-left: 3%;
+    font-family: system-ui;
+}
+#email{
+    height: 28px;
+    width: 227px;
+    position: relative;
+    margin-top: 0%;
+    color: #252525;
+    background: #FFFFFF;
+    border: #e4e3e3 solid 1px;
+    overflow: hidden;
+    border-radius: 30px;
+    margin-left: 2%;
+    padding: 3%;
+}
+.contenrtotl3x{
+    margin-top: 2%;
+}
+.conterx5x{
+
+}
+.contTotalx{
+    line-height: 282%;
+    margin-left: 6%;
+    margin-top: -2%;
+    font-family: system-ui;
+}
+#Subject{
+    height: 7px;
+    width: 515px;
+    position: relative;
+    margin-top: 0%;
+    color: #252525;
+    background: #FFFFFF;
+    border: #e4e3e3 solid 1px;
+    overflow: hidden;
+    border-radius: 30px;
+    margin-left: 6%;
+    padding: 3%;
+}
+.conter6x{
+
+}
+.Message{
+    line-height: 279%;
+    margin-left: 6%;
+    margin-top: 1%;
+    font-family: system-ui;
+}
+#message{
+    height: 87px;
+    width: 515px;
+    position: relative;
+    margin-top: 0%;
+    color: #252525;
+    background: #FFFFFF;
+    border: #e4e3e3 solid 1px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-left: 6%;
+    padding: 3%;
+}
+.conter7x{
+    margin-left: 4%;
+    margin-top: 3%;
+}
+.contButtonx{
+    width: 91%;
+    color: #FFFFFF;
+    padding: 18px;
+    margin-left: 2%;
+    border-radius: 30px;
+    background: #AD343E;
+    border: #AD343E solid 1px;
+}
+.contButtonx:hover{
+    background: #a52e38;
+    cursor: pointer;
+transition: 1s;
+}
+.homeinfo{
+    background-color: white;
+    height: 282px;
+}
+.info{
+    width: 50%;
+    margin-left: 26%;
+    margin-top: 5%;
+}

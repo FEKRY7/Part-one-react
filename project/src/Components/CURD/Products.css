@@ -1,0 +1,80 @@
+.emartosx{
+    background-color: rgb(228, 228, 221);
+    width: 98%;
+    height: 1900px;
+    padding: 1%;
+}
+.Bigenampsx {
+    margin-left: 8%;
+    margin-top: 2%;
+}
+.googlenampsx {
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+    /* gap: 30%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.figmansox{
+    background: white;
+    margin: auto;
+    height: 1643px;
+    margin-top: 2%;
+    margin-left: -3%;
+    width: 103%;
+    border-radius: 3px;
+    padding: 1%;
+}
+.rodmabosx{
+    margin: auto;
+    width: 96%;
+}
+.lopb1x{
+    font-size: 123%;
+    margin-left: 30%;
+}
+.lopb2x{
+    font-size: 123%;
+    margin-left: 24%;
+}
+.lopb3x{
+    font-size: 123%;
+    margin-left: 15%;
+
+}
+.lopb4x{
+    font-size: 123%;
+    margin-left: 28%;
+
+}
+.lopb5x{
+    font-size: 123%;
+    margin-left: 25%;
+
+}
+
+.rodmabos1x{
+    margin-top: 4%;
+    width: 125%;
+}
+.Bigenamps2x {
+    margin-left: -1%;
+    width: 135%;
+    margin-top: 1%;
+}
+.googlenamps2x {
+
+}  
+
+.tndros{
+    width: 71px;
+}
+.lopb1az{
+    font-size: 123%;
+    width: 4%;
+}
+.Xstanosx{
+    margin-left: 79%;
+    margin-top: -36px;
+}
